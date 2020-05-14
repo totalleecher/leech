@@ -1,6 +1,6 @@
 <?php
 
-require_once('rl_init.php');
+require_once('indx..php');
 if ($options['notes_disable']) {
 	require_once('deny.php');
 	exit();
