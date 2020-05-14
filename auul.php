@@ -1,6 +1,6 @@
 <?php
 
-require_once('rl_init.php');
+require_once('index..php');
 
 if ($options['auto_upload_disable']) {
 	require_once('deny.php');
